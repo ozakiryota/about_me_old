@@ -10,6 +10,7 @@
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2020.pdf)
 - Ryota Ozaki and Yoji Kuroda, “DNN-Based Self-Attitude Estimation by Learning Landscape Information,” Proc. of 2021 IEEE/SICE International Symposium on System Integrations (SII 2021), pp. ?-?, 2021.
   - [Program](https://ras.papercept.net/conferences/scripts/rtf/SII21_ContentListWeb_4.html#thb1_04)
+  - [PDF (draft ver.)](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2021.pdf)
 ### Domestic conferences (w/ peer review)
 - 尾崎亮太，黒田洋司，「人工環境における平面特徴量を用いたランドマークSLAM」，第25回ロボティクスシンポジア，pp.316-317，2020．
   - [Program](http://www.robotics-symposia.org/25th/25th_files/rs25-program_ver2.pdf#page=6)
