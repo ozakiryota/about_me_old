@@ -1,5 +1,8 @@
 # about_me
-## Publication
+## Awards
+ - 2019/3　日本機械学会畠山賞
+ - 2017/4　長谷川久夫賞学業成績優秀賞
+## Publications
 ### Journals
 - 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，日本機械学会論文集，Vol.85，No.875，pp.19-00065，2019．  
   - [J-STAGE](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/ja)
