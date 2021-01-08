@@ -8,7 +8,7 @@
 ### Journals
 - 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，日本機械学会論文集，Vol.85，No.875，pp.19-00065，2019/7/25．
   - [J-STAGE](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/ja)
-  - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/transjsme_2020_07.pdf)
+  - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/transjsme_2019_07.pdf)
 ### International conferences (w/ peer review)
 - Ryota Ozaki and Yoji Kuroda, “6-DoF EKF SLAM with Global Planar Features in Artificial Environments,” Proc. of 2020 IEEE/SICE International Symposium on System Integrations (SII 2020), pp.531-535, 2020/1/14.
   - [Program](https://ras.papercept.net/conferences/conferences/SII20/program/SII20_ContentListWeb_2.html#mo3d_04)
