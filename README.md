@@ -13,9 +13,9 @@
 - Ryota Ozaki and Yoji Kuroda, “6-DoF EKF SLAM with Global Planar Features in Artificial Environments,” Proc. of 2020 IEEE/SICE International Symposium on System Integrations (SII 2020), pp.531-535, 2020/1/14.
   - [Program](https://ras.papercept.net/conferences/conferences/SII20/program/SII20_ContentListWeb_2.html#mo3d_04)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2020.pdf)
-- Ryota Ozaki and Yoji Kuroda, “DNN-Based Self-Attitude Estimation by Learning Landscape Information,” Proc. of 2021 IEEE/SICE International Symposium on System Integrations (SII 2021), pp. ?-?, 2021/1/13.
+- Ryota Ozaki and Yoji Kuroda, “DNN-Based Self-Attitude Estimation by Learning Landscape Information,” Proc. of 2021 IEEE/SICE International Symposium on System Integrations (SII 2021), pp.733-738, 2021/1/13.
   - [Program](https://ras.papercept.net/conferences/scripts/rtf/SII21_ContentListWeb_4.html#thb1_04)
-  - [PDF (draft ver.)](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2021.pdf)
+  - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2021.pdf)
 ### Domestic conferences (w/ peer review)
 - 尾崎亮太，黒田洋司，「人工環境における平面特徴量を用いたランドマークSLAM」，第25回ロボティクスシンポジア，pp.316-317，2020/3/15．
   - [Program](http://www.robotics-symposia.org/25th/25th_files/rs25-program_ver2.pdf#page=6)
