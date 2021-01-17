@@ -6,6 +6,10 @@ Ryota OZAKI
 ## Awards
 - 2019/3　日本機械学会畠山賞
 - 2017/4　長谷川久夫賞学業成績優秀賞
+## Education
+- 2015/4 - 2019/3　明治大学 理工学部 卒業
+  - 2017/8 - 2018/1　Exchange program at Mechanical & Aerospace Engineering Department, California State University, Long Beach (CSULB)
+- 2019/4 -　明治大学 理工学研究科
 ## Publications
 ### Journals
 - 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，日本機械学会論文集，Vol.85，No.875，pp.19-00065，2019/7/25．
