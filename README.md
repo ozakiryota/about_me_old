@@ -45,5 +45,5 @@ Ryota OZAKI
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/ismai_2019.pdf)
 - 尾崎亮太，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，2018年度 卒業論文，2019/2/2．
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/bachelor_thesis.pdf)
-- 恩田和弥，大石朋孝，有馬純平，尾崎亮太，隼田駿大，黒田洋司，「Edge-node Map及び交差点形状マッチングを用いたナビゲーションシステムの開発」，つくばチャレンジシンポジウム，2019/1/14．
+- 恩田和弥，大石朋孝，有馬純平，尾崎亮太，隼田駿大，黒田洋司，「Edge-node Map及び交差点形状マッチングを用いたナビゲーションシステムの開発」，つくばチャレンジシンポジウム，pp.101-106，2019/1/14．
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/tsukubachallenge_2018.pdf)
