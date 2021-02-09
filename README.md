@@ -12,18 +12,21 @@ Ryota OZAKI
 - 2019/4 -　明治大学 理工学研究科
 ## Publications
 ### Journals
+- Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," the IEEE Robotics and Automation
+Letters (RA-L), pp.?-?, 2021/?/? (in press).
 - 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，日本機械学会論文集，Vol.85，No.875，pp.19-00065，2019/7/25．
   - [J-STAGE](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/ja)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/transjsme_2019_07.pdf)
 ### International conferences (w/ peer review)
-- Ryota Ozaki and Yoji Kuroda, “DNN-Based Self-Attitude Estimation by Learning Landscape Information,” Proc. of 2021 IEEE/SICE International Symposium on System Integrations (SII 2021), pp.733-738, 2021/1/13.
+- Ryota Ozaki and Yoji Kuroda, 
+"DNN-Based Self-Attitude Estimation by Learning Landscape Information," Proc. of 2021 IEEE/SICE International Symposium on System Integrations (SII 2021), pp.733-738, 2021/1/13.
   - [Program](https://ras.papercept.net/conferences/scripts/rtf/SII21_ContentListWeb_4.html#thb1_04)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2021.pdf)
-- Ryota Ozaki and Yoji Kuroda, “6-DoF EKF SLAM with Global Planar Features in Artificial Environments,” Proc. of 2020 IEEE/SICE International Symposium on System Integrations (SII 2020), pp.531-535, 2020/1/14.
+- Ryota Ozaki and Yoji Kuroda, "6-DoF EKF SLAM with Global Planar Features in Artificial Environments," Proc. of 2020 IEEE/SICE International Symposium on System Integrations (SII 2020), pp.531-535, 2020/1/14.
   - [Program](https://ras.papercept.net/conferences/conferences/SII20/program/SII20_ContentListWeb_2.html#mo3d_04)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2020.pdf)
 ### Domestic conferences (w/ peer review)
-- 尾崎亮太，黒田洋司，「風景知識を学習するカメラ-LiDAR DNNによる自己姿勢推定」，第26回ロボティクスシンポジア，pp.?-?，2021/3/16 or 17．
+- 尾崎亮太，黒田洋司，「風景知識を学習するカメラ-LiDAR DNNによる自己姿勢推定」，第26回ロボティクスシンポジア，pp.?-?，2021/3/16 or 17（発表予定）．
 - 尾崎亮太，黒田洋司，「人工環境における平面特徴量を用いたランドマークSLAM」，第25回ロボティクスシンポジア，pp.316-317，2020/3/15．
   - [Program](http://www.robotics-symposia.org/25th/25th_files/rs25-program_ver2.pdf#page=6)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/robosym_2020.pdf)
@@ -41,9 +44,11 @@ Ryota OZAKI
   - [Program](https://www.jsme.or.jp/event/2018-33222/)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/kantojsme_2019.pdf)
 ### Others
-- Ryota Ozaki and Yoji Kuroda, “6-DoF EKF SLAM with global planar features in artificial environments,” The Fourteenth International Symposium on Mechanics, Aerospace and Informatics Engineering 2019 (ISMAI-14), pp. 215-218, 2019/9/4.
+- 尾崎亮太，「風景知識を学習するDNNを用いたリアルタイム自己姿勢推定」，2020年度修士論文，2021/2/?．
+  - PDF
+- Ryota Ozaki and Yoji Kuroda, "6-DoF EKF SLAM with global planar features in artificial environments," The Fourteenth International Symposium on Mechanics, Aerospace and Informatics Engineering 2019 (ISMAI-14), pp. 215-218, 2019/9/4.
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/ismai_2019.pdf)
-- 尾崎亮太，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，2018年度 卒業論文，2019/2/2．
+- 尾崎亮太，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，2018年度卒業論文，2019/2/2．
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/bachelor_thesis.pdf)
 - 恩田和弥，大石朋孝，有馬純平，尾崎亮太，隼田駿大，黒田洋司，「Edge-node Map及び交差点形状マッチングを用いたナビゲーションシステムの開発」，つくばチャレンジシンポジウム，pp.101-106，2019/1/14．
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/tsukubachallenge_2018.pdf)
