@@ -12,6 +12,9 @@ Ryota OZAKI
 - 2019/4 -　明治大学 理工学研究科
 ## Publications
 ### Journals
+- Ryota Ozaki and Yoji Kuroda, "EKF-based self-attitude estimation with DNN learning landscape information," ROBOMECH Journal, Vol.?, No.?, pp.?-?, 2021/?/? (in press).
+  - Springer
+  - PDF
 - Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," IEEE Robotics and Automation
 Letters (RA-L), Vol.?, No.?, pp.?-?, 2021/?/? (in press).
   - IEEE Xplore
@@ -30,6 +33,8 @@ Letters (RA-L), Vol.?, No.?, pp.?-?, 2021/?/? (in press).
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2020.pdf)
 ### Domestic conferences (w/ peer review)
 - 尾崎亮太，黒田洋司，「風景知識を学習するカメラ-LiDAR DNNによる自己姿勢推定」，第26回ロボティクスシンポジア，pp.?-?，2021/3/16 or 17（発表予定）．
+  - Program
+  - PDF
 - 尾崎亮太，黒田洋司，「人工環境における平面特徴量を用いたランドマークSLAM」，第25回ロボティクスシンポジア，pp.316-317，2020/3/15．
   - [Program](http://www.robotics-symposia.org/25th/25th_files/rs25-program_ver2.pdf#page=6)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/robosym_2020.pdf)
