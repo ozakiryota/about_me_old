@@ -17,7 +17,7 @@ Ryota OZAKI
   - PDF
 - Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," IEEE Robotics and Automation
 Letters (RA-L), Vol.?, No.?, pp.?-?, 2021/?/? (in press).
-  - IEEE Xplore
+  - [IEEE Xplore](https://ieeexplore.ieee.org/document/9359333)
   - PDF
   - Video abstract
 - 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，日本機械学会論文集，Vol.85，No.875，pp.19-00065，2019/7/25．
