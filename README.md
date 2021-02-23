@@ -50,12 +50,12 @@ Letters (RA-L), Vol.?, No.?, pp.?-?, 2021/2/19 (Early Access).
 - 尾崎亮太，黒田洋司，「鉛直壁面を用いた移動ロボットのための自己姿勢推定」，日本機械学会ロボティクス・メカトロニクス講演会 2019，2019/6/6．
   - [Program](http://robomech.org/2019/wp-content/uploads/2019/05/RM19_program_v05.pdf#page=46)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/robomech_2019.pdf)
-- 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いた6DoF位置姿勢推定」，関東学生会第 58 回学生員卒業研究発表講演会，2019/3/18．
+- 尾崎亮太，黒田洋司，「建造物の壁に対する相対姿勢を用いた6DoF位置姿勢推定」，関東学生会第58回学生員卒業研究発表講演会，2019/3/18．
   - [Program](https://www.jsme.or.jp/event/2018-33222/)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/kantojsme_2019.pdf)
 ### Others
-- 尾崎亮太，「風景知識を学習するDNNを用いたリアルタイム自己姿勢推定」，2020年度修士論文，2021/2/?．
-  - PDF
+- 尾崎亮太，「風景知識を学習するDNNを用いたリアルタイム自己姿勢推定」，2020年度修士論文，2021/2/25．
+  - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/master_thesis.pdf)
 - Ryota Ozaki and Yoji Kuroda, "6-DoF EKF SLAM with global planar features in artificial environments," The Fourteenth International Symposium on Mechanics, Aerospace and Informatics Engineering 2019 (ISMAI-14), pp. 215-218, 2019/9/4.
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/ismai_2019.pdf)
 - 尾崎亮太，「建造物の壁に対する相対姿勢を用いたリアルタイム6DoF位置姿勢推定」，2018年度卒業論文，2019/2/2．
