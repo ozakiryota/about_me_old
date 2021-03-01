@@ -15,7 +15,7 @@ Ryota OZAKI
 - Ryota Ozaki and Yoji Kuroda, "EKF-based self-attitude estimation with DNN learning landscape information," ROBOMECH Journal, Vol.?, No.?, pp.?-?, 2021/?/? (in press).
   - Springer
   - PDF
-- Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," IEEE Robotics and Automation
+- Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," the IEEE Robotics and Automation
 Letters (RA-L), Vol.?, No.?, pp.?-?, 2021/2/19 (Early Access).
   - [IEEE Xplore](https://ieeexplore.ieee.org/document/9359333)
   - PDF
@@ -24,8 +24,11 @@ Letters (RA-L), Vol.?, No.?, pp.?-?, 2021/2/19 (Early Access).
   - [J-STAGE](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/ja)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/transjsme_2019_07.pdf)
 ### International conferences (w/ peer review)
-- Ryota Ozaki and Yoji Kuroda, 
-"DNN-Based Self-Attitude Estimation by Learning Landscape Information," Proc. of 2021 IEEE/SICE International Symposium on System Integrations (SII 2021), pp.733-738, 2021/1/13.
+- Ryota Ozaki and Yoji Kuroda, "Camera DNN-based self-attitude estimation learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), pp.?-?, 2021/?/? (in press).
+  - Program
+  - IEEE Xplore
+  - PDF
+- Ryota Ozaki and Yoji Kuroda, "DNN-Based Self-Attitude Estimation by Learning Landscape Information," Proc. of 2021 IEEE/SICE International Symposium on System Integrations (SII 2021), pp.733-738, 2021/1/13.
   - [Program](https://ras.papercept.net/conferences/scripts/rtf/SII21_ContentListWeb_4.html#thb1_04)
   - IEEE Xplore
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2021.pdf)
