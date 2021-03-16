@@ -37,9 +37,9 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [IEEE Xplore](https://ieeexplore.ieee.org/document/9026222)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2020.pdf)
 ### Domestic conferences (w/ peer review)
-- 尾崎亮太，黒田洋司，「風景知識を学習するカメラ-LiDAR-DNNによる自己姿勢推定」，第26回ロボティクスシンポジア，pp.?-?，2021/3/17（発表予定）．
-  - [Program](http://www.robotics-symposia.org/26th/26th_files/Programme_26RS.pdf#page=2)
-  - PDF
+- 尾崎亮太，黒田洋司，「風景知識を学習するカメラ-LiDAR-DNNによる自己姿勢推定」，第26回ロボティクスシンポジア，pp.249-250，2021/3/17．
+  - [Program](http://www.robotics-symposia.org/26th/26th_files/Programme_26RS.pdf#page=9)
+  - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/robosym_2021.pdf)
 - 尾崎亮太，黒田洋司，「人工環境における平面特徴量を用いたランドマークSLAM」，第25回ロボティクスシンポジア，pp.316-317，2020/3/15．
   - [Program](http://www.robotics-symposia.org/25th/25th_files/rs25-program_ver2.pdf#page=6)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/robosym_2020.pdf)
