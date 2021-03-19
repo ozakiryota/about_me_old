@@ -24,7 +24,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - [J-STAGE](https://www.jstage.jst.go.jp/article/transjsme/85/875/85_19-00065/_article/-char/ja)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/transjsme_2019_07.pdf)
 ### International conferences (w/ peer review)
-- Ryota Ozaki and Yoji Kuroda, "Camera DNN-based self-attitude estimation learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), pp.?-?, 2021/?/? (in press).
+- Ryota Ozaki and Yoji Kuroda, "EKF-based real-time self-attitude estimation with camera DNN learning landscape regularities," Proc. of 2021 IEEE International Conference on Robotics and Automation (ICRA 2021), pp.?-?, 2021/?/? (in press).
   - Program
   - IEEE Xplore
   - PDF
