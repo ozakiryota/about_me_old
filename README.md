@@ -1,15 +1,26 @@
 # about_me
 ## Name
 Ryota OZAKI
+## Research fields
+Mobile robotics, Autonomous mobile system, Deep learning
+## Programming languages & frameworks
+C++, Python, ROS, PyTorch
 ## Certification
-- JDLA Deep Learning for ENGINEER 2019#2
+- [JDLA Deep Learning for ENGINEER 2019#2](https://www.jdla.org/news/20190909001/)
+- TOEIC Listening & Reading: 865 points
+- TOEFL iBT: 62 points
+- 実用英語技能検定2級
+- 日本漢字能力検定2級
+- 日本商工会議所簿記検定3級
+- 普通自動車第一種運転免許
 ## Awards
-- 2019/3　日本機械学会畠山賞
-- 2017/4　長谷川久夫賞学業成績優秀賞
+- 2021/3　[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
+- 2019/3　[日本機械学会畠山賞](https://www.jsme.or.jp/archive/award/shou4-18.pdf)
+- 2017/4　[長谷川久夫賞学業成績優秀賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
 ## Education
 - 2015/4 - 2019/3　明治大学 理工学部 卒業
   - 2017/8 - 2018/1　Exchange program at Mechanical & Aerospace Engineering Department, California State University, Long Beach (CSULB)
-- 2019/4 -　明治大学 理工学研究科
+- 2019/4 - 2021/3　明治大学 理工学研究科 修了
 ## Publications
 ### Journals
 - Ryota Ozaki and Yoji Kuroda, "EKF-based self-attitude estimation with DNN learning landscape information," ROBOMECH Journal, Vol.8, No.9, 2021/3/6.
