@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: Who is Ryota OZAKI?
 github:
   is_project_page: false
+hide_first_title: true
 github_username:  ozakiryota
