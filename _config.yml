@@ -2,6 +2,4 @@ theme: jekyll-theme-cayman
 title: Who is Ryota OZAKI?
 github:
   is_project_page: false
-aux_links:
-  "Contact Me":
-    - "https://forms.gle/piFKSUZmzgVT7Ne67"
+github_username:  ozakiryota
