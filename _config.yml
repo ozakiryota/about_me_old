@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Who is Ryota OZAKI?
+github:
+  is_project_page: false
