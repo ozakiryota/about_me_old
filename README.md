@@ -1,5 +1,3 @@
-# about_me
-
 ## Name
 Ryota OZAKI
 
