@@ -1,5 +1,10 @@
-## Name
-Ryota OZAKI
+---
+title: about_me
+---
+
+Ryota OZAKI is:
+-  a robotics researcher/engineer
+-  with a master's degree in engineering
 
 ## Research fields
 Mobile robotics, Autonomous mobile system, Deep learning, ...
