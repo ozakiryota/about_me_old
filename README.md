@@ -18,9 +18,10 @@ C++, Python, ROS, PyTorch
 - 普通自動車第一種運転免許
 
 ## Awards
-- 2021/3　[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
-- 2019/3　[日本機械学会畠山賞](https://www.jsme.or.jp/archive/award/shou4-18.pdf)
-- 2017/4　[長谷川久夫賞学業成績優秀賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
+- 2021/03　[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
+- 2019/03　[日本機械学会畠山賞](https://www.jsme.or.jp/archive/award/shou4-18.pdf)
+- 2018/10　[長谷川久夫賞卒業研究中間発表会優秀発表賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
+- 2017/04　[長谷川久夫賞学業成績優秀賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
 
 ## Education
 - 2015/4 - 2019/3　明治大学 理工学部 卒業
