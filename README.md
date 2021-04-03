@@ -50,7 +50,7 @@ Letters (RA-L), Vol.6, No.2, pp.1737-1744, 2021/2/19.
   - PDF
 - Ryota Ozaki and Yoji Kuroda, "DNN-Based Self-Attitude Estimation by Learning Landscape Information," Proc. of 2021 IEEE/SICE International Symposium on System Integrations (SII 2021), pp.733-738, 2021/1/13.
   - [Program](https://ras.papercept.net/conferences/scripts/rtf/SII21_ContentListWeb_4.html#thb1_04)
-  - IEEE Xplore
+  - [IEEE Xplore](https://ieeexplore.ieee.org/document/9382642)
   - [PDF](https://github.com/ozakiryota/about_me/blob/main/papers/sii_2021.pdf)
 - Ryota Ozaki and Yoji Kuroda, "6-DoF EKF SLAM with Global Planar Features in Artificial Environments," Proc. of 2020 IEEE/SICE International Symposium on System Integrations (SII 2020), pp.531-535, 2020/1/14.
   - [Program](https://ras.papercept.net/conferences/conferences/SII20/program/SII20_ContentListWeb_2.html#mo3d_04)
