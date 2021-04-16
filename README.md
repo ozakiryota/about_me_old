@@ -3,7 +3,8 @@ Ryota OZAKI is:
 -  with a master's degree in engineering
 
 ## Research fields
-Mobile robotics, Autonomous mobile system, Deep learning, ...
+Mobile robotics, Autonomous mobile system, Deep learning, ...  
+(I am currently studying reinforcement learning.)
 
 ## Programming languages & frameworks
 C++, Python, ROS, PyTorch
