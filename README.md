@@ -6,8 +6,8 @@ Ryota OZAKI is:
 Mobile robotics, Autonomous mobile system, Deep learning, ...  
 (I am currently studying reinforcement learning.)
 
-## Programming languages & frameworks
-C++, Python, ROS, PyTorch
+## Programming skills (languages, frameworks, platform, ...)
+C++, Python, ROS, PyTorch, Docker
 
 ## Certification
 - [JDLA Deep Learning for ENGINEER 2019#2](https://www.jdla.org/news/20190909001/)
