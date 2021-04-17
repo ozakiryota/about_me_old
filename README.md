@@ -5,7 +5,7 @@ Ryota OZAKI is:
 ## Research fields
 Mobile robotics, Autonomous mobile system, Deep learning, ...
 
-## Programming skills (languages, frameworks, platform, ...)
+## Programming skills (languages, frameworks, platforms, ...)
 C++, Python, ROS, PyTorch, Docker
 
 ## Certification
