@@ -27,6 +27,7 @@ C++, Python, ROS, PyTorch, Docker
 - 2015/4 - 2019/3　明治大学 理工学部 卒業
   - 2017/8 - 2018/1　Exchange program at Mechanical & Aerospace Engineering Department, California State University, Long Beach (CSULB)
 - 2019/4 - 2021/3　明治大学 理工学研究科 修了
+  - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)
 
 ## Publications
 
