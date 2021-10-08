@@ -16,6 +16,7 @@ C, C++, Python, ROS, PyTorch, Docker
 - 日本漢字能力検定2級
 - 日本商工会議所簿記検定3級
 - 普通自動車第一種運転免許
+<!-- 車両系建設機械（整地等）運転 -->
 
 ## Awards
 - 2021/03　[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
