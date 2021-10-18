@@ -34,6 +34,7 @@ C, C++, Python, ROS, PyTorch, Docker
 
 ### Journals
 - 尾崎亮太，黒田洋司，「視覚画像と環境の形状を利用するリアルタイム自己姿勢推定」，日本機械学会論文集，Vol.?，No.?，pp.?，2021/?/?（掲載準備中）．
+  - [J-STAGE（早期公開）](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_21-00098/_article/-char/ja)
 - Ryota Ozaki and Yoji Kuroda, "EKF-based self-attitude estimation with DNN learning landscape information," ROBOMECH Journal, Vol.8, No.9, 2021/3/6.
   - [Springer](https://doi.org/10.1186/s40648-021-00196-3)
   - [PDF](https://ozakiryota.github.io/about_me/papers/robomechjournal_2021_03.pdf)
