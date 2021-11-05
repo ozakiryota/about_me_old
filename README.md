@@ -33,6 +33,7 @@ C, C++, Python, ROS, PyTorch, Docker
 ## Publications
 
 ### Journals
+- Ryota Ozaki, Naoya Sugiura and Yoji Kuroda, "LiDAR DNN based self-attitude estimation with learning landscape regularities," ROBOMECH Journal, Vol.?, No.?, 2021/?/? (in press).
 - 尾崎亮太，黒田洋司，「視覚画像と環境の形状を利用するリアルタイム自己姿勢推定」，日本機械学会論文集，Vol.87，No.903，pp.21-00098，2021/11/25（本公開予定）．
   - [J-STAGE（早期公開）](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_21-00098/_article/-char/ja)
 - Ryota Ozaki and Yoji Kuroda, "EKF-based self-attitude estimation with DNN learning landscape information," ROBOMECH Journal, Vol.8, No.9, 2021/3/6.
