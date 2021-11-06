@@ -1,4 +1,4 @@
-## Ryota OZAKI is:
+Ryota OZAKI is:
 - a robotics researcher/engineer
 - with a master's degree in engineering
 
