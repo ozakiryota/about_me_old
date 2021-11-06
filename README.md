@@ -1,4 +1,4 @@
-Ryota OZAKI is:
+## Ryota OZAKI is:
 -  a robotics researcher/engineer
 -  with a master's degree in engineering
 
@@ -15,8 +15,8 @@ C, C++, Python, ROS, PyTorch, Docker
 - 実用英語技能検定2級
 - 日本漢字能力検定2級
 - 日本商工会議所簿記検定3級
+- 車両系建設機械（整地等）運転
 - 普通自動車第一種運転免許
-<!-- 車両系建設機械（整地等）運転 -->
 
 ## Awards
 - 2021/03　[日本機械学会三浦賞](https://www.jsme.or.jp/event_project/award/miura-award/)
@@ -25,10 +25,11 @@ C, C++, Python, ROS, PyTorch, Docker
 - 2017/04　[長谷川久夫賞学業成績優秀賞](http://www.isc.meiji.ac.jp/~mech/HasegawaHisaoAward/index.html)
 
 ## Education
-- 2015/4 - 2019/3　明治大学 理工学部 卒業
-  - 2017/8 - 2018/1　Exchange program at Mechanical & Aerospace Engineering Department, California State University, Long Beach (CSULB)
-- 2019/4 - 2021/3　明治大学 理工学研究科 修了
+- 2015/04 - 2019/03　明治大学 理工学部 卒業
+  - 2017/08 - 2018/01　Exchange program at Mechanical & Aerospace Engineering Department, California State University, Long Beach (CSULB)
   - [ロボット工学研究室（Autonomous Mobile Systems Laboratory）](https://amslab.tech/)
+- 2019/04 - 2021/03　明治大学 理工学研究科 修了
+  - ロボット工学研究室（Autonomous Mobile Systems Laboratory）
 
 ## Publications
 
